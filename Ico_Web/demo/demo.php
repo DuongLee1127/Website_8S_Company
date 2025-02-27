@@ -1,0 +1,1 @@
+<?php setcookie('use', 'abc', time()+86400, "/") ?>
